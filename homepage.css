@@ -1,0 +1,19 @@
+.cont1{
+    height: 30vh;
+    background-color: saddlebrown;
+    text-align: center;
+}
+
+.h1{
+    margin-top: 10;
+    margin-bottom: 0;
+}
+
+.cont2{
+    background-color: chocolate;
+    height: 65vh;
+}
+
+.ul{
+    margin-top: 0;
+}
